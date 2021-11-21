@@ -6,3 +6,4 @@ public class ConsoleWriter {
         System.out.println(msg);
     }
 }
+
